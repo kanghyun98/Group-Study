@@ -9,7 +9,6 @@
 - ✏️ 1일 1알고리즘 문제 풀기
 - 📎 [Notion](https://kanghyun98.notion.site/6c85029e3ef646beaa21c175ba5c73c7) / [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
-<br>
 
 ### 🔥 기술블로그 챌린지 (Leader)
 
@@ -18,7 +17,6 @@
 - ✏️ 매주 n개 이상의 블로그 글 작성
 - 📎 [Blog](https://velog.io/@kanghyun98)
 
-<br>
 
 ### 🔥 세상을 바꾸는 프론트엔드
 
@@ -28,7 +26,6 @@
 - ➕ 프론트엔드 관련 지식 및 아티클 공유
 - 📎 [Notion](https://kanghyun98.notion.site/5d90b47d183f4d6083f544e3b330f809)
 
-<br>
 
 ### 🔥 패키지 매니저 & 번들러
 
@@ -38,7 +35,6 @@
 - ➕ 각 패키지 매니저의 기능을 통해 모노레포 구성 과정 실습
 - 📎 [Notion](https://kanghyun98.notion.site/336bae78940747beb3b09fdc2f99e450) / [Github](https://github.com/gdsc-ssu/2023-front-without-boilerplate)
 
-<br>
 
 ### 🔥 코테 스터디
 
@@ -47,7 +43,6 @@
 - ✏️ 매주 "[이것이 취업을 위한 코딩 테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)" 독서 및 문제 풀이
 - 📎 [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4)
 
-<br>
 
 ### 🔥 타입스크립트 챌린지 (Leader)
 
@@ -57,7 +52,6 @@
 - ➕ 타입스크립트 관련 자료 공유
 - 📎 [Notion](https://kanghyun98.notion.site/Typescript-Study-8fb1fbb005e2415eae570768a1ee139f) / Github ([Type Challenge](https://github.com/kanghyun98/type-challenges), [개념 정리](https://github.com/kanghyun98/TIL/tree/main/01.%20Frontend/04.%20TypeScript))
 
-<br>
 
 ## 📘 종료
 
@@ -69,7 +63,6 @@
 - ➕ 각자 맡은 언어로 예제 코드 변경
 - 📎 [Github](https://github.com/gdsc-ssu/clean_code_master)
 
-<br>
 
 ### ✅ CS Storage (Leader)
 
@@ -78,7 +71,6 @@
 - ✏️ 매주 1개 이상의 주제를 작성하여 학습, 정리 및 공유, 피드백
 - 📎 [Notion](https://kanghyun98.notion.site/CS-Study-276da0427c884b3e9bac2ffcf43a523f) / [Github](https://github.com/gdsc-ssu/cs-study)
 
-<br>
 
 ### ✅ 프레임워크 없는 프론트엔드
 
@@ -87,7 +79,6 @@
 - ✏️"[프레임워크 없는 프론트엔드 개발](http://www.yes24.com/Product/Goods/96639825)" 요약 문서 작성, 관련 주제에 대한 의견 및 참고자료 공유를 위한 토론 진행
 - 📎 [Notion](https://www.notion.so/kanghyun98/NFF-Reading-FF-ToDo-CodeJam-bb3173d2e1d5498f813ec3bc23f473b9) / [Github](https://github.com/gdsc-ssu/2023-FE-with-no-framework)
 
-<br>
 
 ### ✅ 프레임워크 있는 프론트엔드
 
@@ -96,7 +87,6 @@
 - ✏️ 프레임워크 별로 발표 및 투두앱 코드잼 진행 (Angular, Vue, Svelte, Solid)
 - 📎 [Notion](https://kanghyun98.notion.site/NFF-Reading-FF-ToDo-CodeJam-bb3173d2e1d5498f813ec3bc23f473b9) / [Github](https://github.com/gdsc-ssu/todo-on-any-front-framework)
 
-<br>
 
 ### ✅ React Deep Dive
 
@@ -105,7 +95,6 @@
 - ✏️ [React 공식 문서](https://ko.reactjs.org/docs/hello-world.html)를 읽고 의견 나누기
 - 📎 [Notion](https://kanghyun98.notion.site/React-Deep-Dive-8d2c7f009d404533ac7b1bd66e9f2c25)
 
-<br>
 
 ### ✅ HTML/CSS/JS Deep Dive (Leader)
 
@@ -114,7 +103,6 @@
 - ✏️ 매주 1개 주제 선택 후 학습, 정리 및 공유, 피드백
 - 📎 [Notion](https://kanghyun98.notion.site/HCJ-Deep-Dive-10d2783afba741e9af18ee94cf9d79f1) / [Github](https://github.com/gdsc-ssu/hcj-study)
 
-<br>
 
 ### ✅ Javascript 30 챌린지 (Leader)
 
@@ -123,7 +111,6 @@
 - ✏️ 30개의 작은 프로젝트 제작 및 피드백 (코드 리뷰)
 - 📎 [Github](https://github.com/gdsc-ssu/dalguman-study/tree/main/js-study)
 
-<br>
 
 ###  ✅ 불꽃 JS
 
