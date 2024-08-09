@@ -7,7 +7,6 @@
 - 🗓️ 2024.08.08 ~ 
 - 🎯 디자인 패턴의 이해와 프론트엔드에서의 적용
 - ✏️ 매주 "[자바스크립트 + 리액트 디자인 패턴]([http://www.yes24.com/Product/Goods/91433923](https://www.yes24.com/Product/Goods/129374961))" 독서 & 정리 & 발표
-- 📎 [Notion](https://kanghyun98.notion.site/6c85029e3ef646beaa21c175ba5c73c7) / [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
 ## 📘 종료
