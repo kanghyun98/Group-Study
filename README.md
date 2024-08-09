@@ -2,58 +2,57 @@
 
 ## 📖 진행중
 
-### 🔥 알고리즘 챌린지 (Leader)
+### ✅ FE Design Pattern
 
-- 🗓️ 2023.03.03 ~
+- 🗓️ 2024.08.08 ~ 
+- 🎯 디자인 패턴의 이해와 프론트엔드에서의 적용
+- ✏️ 매주 "[자바스크립트 + 리액트 디자인 패턴]([http://www.yes24.com/Product/Goods/91433923](https://www.yes24.com/Product/Goods/129374961))" 독서 & 정리 & 발표
+- 📎 [Notion](https://kanghyun98.notion.site/6c85029e3ef646beaa21c175ba5c73c7) / [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+
+## 📘 종료
+
+### ✅ 알고리즘 챌린지 (Leader)
+
+- 🗓️ 2023.03.03 ~ 2023.03.30
 - 🎯 알고리즘 문제 풀이 실력 향상
 - ✏️ 1일 1알고리즘 문제 풀기
 - 📎 [Notion](https://kanghyun98.notion.site/6c85029e3ef646beaa21c175ba5c73c7) / [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
-### 🔥 기술블로그 챌린지 (Leader)
+### ✅ 세상을 바꾸는 프론트엔드
 
-- 🗓️ 2023.02.27 ~
-- 🎯 기술 지식, 문제해결과정, 생각의 공유
-- ✏️ 매주 n개 이상의 블로그 글 작성
-- 📎 [Blog](https://velog.io/@kanghyun98)
-
-
-### 🔥 세상을 바꾸는 프론트엔드
-
-- 🗓️ 2023.02.14 ~
+- 🗓️ 2023.02.14 ~ 2023.03.29
 - 🎯 '우리의 서비스가 유저로 하여금 세상을 바꾸게 하려면, 프론트엔드는 어떻게 해야 할까?’라는 질문에 대한 답변 찾기
 - ✏️ 매주 번갈아가며 발제지 작성 및 관련 내용에 대한 토론
 - ➕ 프론트엔드 관련 지식 및 아티클 공유
 - 📎 [Notion](https://kanghyun98.notion.site/5d90b47d183f4d6083f544e3b330f809)
 
 
-### 🔥 패키지 매니저 & 번들러
+### ✅ 패키지 매니저 & 번들러
 
-- 🗓️ 2023.01.19 ~
+- 🗓️ 2023.01.19 ~ 2023.03.22
 - 🎯 패키지 매니저와 번들러에 대한 이해
 - ✏️ 매주 패키지 매니저, 번들러 각 종류별 비교, 실습 및 피드백 (코드 리뷰)
 - ➕ 각 패키지 매니저의 기능을 통해 모노레포 구성 과정 실습
 - 📎 [Notion](https://kanghyun98.notion.site/336bae78940747beb3b09fdc2f99e450) / [Github](https://github.com/gdsc-ssu/2023-front-without-boilerplate)
 
 
-### 🔥 코테 스터디
+### ✅ 코테 스터디
 
-- 🗓️ 2022.10.14 ~
+- 🗓️ 2022.10.14 ~ 2023.03.23
 - 🎯 알고리즘 문제 풀이 실력 향상
 - ✏️ 매주 "[이것이 취업을 위한 코딩 테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)" 독서 및 문제 풀이
 - 📎 [Github](https://github.com/kanghyun98/TIL/tree/main/04.%20CS/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4)
 
 
-### 🔥 타입스크립트 챌린지 (Leader)
+### ✅ 타입스크립트 챌린지 (Leader)
 
-- 🗓️ 2022.10.11 ~
+- 🗓️ 2022.10.11 ~ 2023.02.27
 - 🎯 타입스크립트에 대한 깊은 이해 및 활용 방법 숙달
 - ✏️ [타입스크립트 관련 개념](https://joshua1988.github.io/ts/intro.html) 정리 / 매주 [타입 챌린지](https://github.com/type-challenges/type-challenges) 진행 및 문제 풀이 피드백
 - ➕ 타입스크립트 관련 자료 공유
 - 📎 [Notion](https://kanghyun98.notion.site/Typescript-Study-8fb1fbb005e2415eae570768a1ee139f) / Github ([Type Challenge](https://github.com/kanghyun98/type-challenges), [개념 정리](https://github.com/kanghyun98/TIL/tree/main/01.%20Frontend/04.%20TypeScript))
-
-
-## 📘 종료
 
 ### ✅ 클린코드 마스터
 
